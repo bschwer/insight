@@ -1,5 +1,7 @@
 .DS_Store
 *.gem
+.project
+.loadpath
 public/avatars/
 public/upload/
 spec/fixtures/
